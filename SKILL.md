@@ -1,8 +1,9 @@
 
 ---
-name: sochverse-documentary-studio
+name: guru-unfiltered-documentary-studio
 description: Creates premium documentary-style videos with advanced map animation, cinematic storytelling, motion graphics, 2D animation, VFX, sound design and professional editing plans. Use for educational, political, historical, financial, scientific, global affairs and current-affairs videos.
 ---
+
 
 # GURU UNFILTERED Documentary Studio
 
